@@ -1,0 +1,21 @@
+{
+  "name": "cambridge-clone-api",
+  "version": "1.0.0",
+  "description": "Cambridge University clone backend using Express and MongoDB",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "Sumaiya Amin",
+  "license": "ISC"
+}
